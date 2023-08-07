@@ -1,0 +1,15 @@
+C:\proyectos\DevSu\DevSu\DevSu.Services\bin\Debug\net6.0\DevSu.Services.deps.json
+C:\proyectos\DevSu\DevSu\DevSu.Services\bin\Debug\net6.0\DevSu.Services.dll
+C:\proyectos\DevSu\DevSu\DevSu.Services\bin\Debug\net6.0\DevSu.Services.pdb
+C:\proyectos\DevSu\DevSu\DevSu.Services\obj\Debug\net6.0\DevSu.Services.csproj.AssemblyReference.cache
+C:\proyectos\DevSu\DevSu\DevSu.Services\obj\Debug\net6.0\DevSu.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\DevSu\DevSu\DevSu.Services\obj\Debug\net6.0\DevSu.Services.AssemblyInfoInputs.cache
+C:\proyectos\DevSu\DevSu\DevSu.Services\obj\Debug\net6.0\DevSu.Services.AssemblyInfo.cs
+C:\proyectos\DevSu\DevSu\DevSu.Services\obj\Debug\net6.0\DevSu.Services.csproj.CoreCompileInputs.cache
+C:\proyectos\DevSu\DevSu\DevSu.Services\obj\Debug\net6.0\DevSu.Services.dll
+C:\proyectos\DevSu\DevSu\DevSu.Services\obj\Debug\net6.0\refint\DevSu.Services.dll
+C:\proyectos\DevSu\DevSu\DevSu.Services\obj\Debug\net6.0\DevSu.Services.pdb
+C:\proyectos\DevSu\DevSu\DevSu.Services\obj\Debug\net6.0\ref\DevSu.Services.dll
+C:\proyectos\DevSu\DevSu\DevSu.Services\bin\Debug\net6.0\DevSu.Core.dll
+C:\proyectos\DevSu\DevSu\DevSu.Services\bin\Debug\net6.0\DevSu.Core.pdb
+C:\proyectos\DevSu\DevSu\DevSu.Services\obj\Debug\net6.0\DevSu.Services.csproj.CopyComplete

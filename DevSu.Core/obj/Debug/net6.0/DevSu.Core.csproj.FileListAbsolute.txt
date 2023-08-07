@@ -1,0 +1,12 @@
+C:\proyectos\DevSu\DevSu\DevSu.Core\bin\Debug\net6.0\DevSu.Core.deps.json
+C:\proyectos\DevSu\DevSu\DevSu.Core\bin\Debug\net6.0\DevSu.Core.dll
+C:\proyectos\DevSu\DevSu\DevSu.Core\bin\Debug\net6.0\DevSu.Core.pdb
+C:\proyectos\DevSu\DevSu\DevSu.Core\obj\Debug\net6.0\DevSu.Core.csproj.AssemblyReference.cache
+C:\proyectos\DevSu\DevSu\DevSu.Core\obj\Debug\net6.0\DevSu.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\DevSu\DevSu\DevSu.Core\obj\Debug\net6.0\DevSu.Core.AssemblyInfoInputs.cache
+C:\proyectos\DevSu\DevSu\DevSu.Core\obj\Debug\net6.0\DevSu.Core.AssemblyInfo.cs
+C:\proyectos\DevSu\DevSu\DevSu.Core\obj\Debug\net6.0\DevSu.Core.csproj.CoreCompileInputs.cache
+C:\proyectos\DevSu\DevSu\DevSu.Core\obj\Debug\net6.0\DevSu.Core.dll
+C:\proyectos\DevSu\DevSu\DevSu.Core\obj\Debug\net6.0\refint\DevSu.Core.dll
+C:\proyectos\DevSu\DevSu\DevSu.Core\obj\Debug\net6.0\DevSu.Core.pdb
+C:\proyectos\DevSu\DevSu\DevSu.Core\obj\Debug\net6.0\ref\DevSu.Core.dll

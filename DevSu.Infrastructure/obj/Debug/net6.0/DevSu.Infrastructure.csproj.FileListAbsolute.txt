@@ -1,0 +1,17 @@
+C:\proyectos\DevSu\DevSu\DevSu.Infrastructure\obj\Debug\net6.0\DevSu.Infrastructure.csproj.AssemblyReference.cache
+C:\proyectos\DevSu\DevSu\DevSu.Infrastructure\obj\Debug\net6.0\DevSu.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\DevSu\DevSu\DevSu.Infrastructure\obj\Debug\net6.0\DevSu.Infrastructure.AssemblyInfoInputs.cache
+C:\proyectos\DevSu\DevSu\DevSu.Infrastructure\obj\Debug\net6.0\DevSu.Infrastructure.AssemblyInfo.cs
+C:\proyectos\DevSu\DevSu\DevSu.Infrastructure\obj\Debug\net6.0\DevSu.Infrastructure.csproj.CoreCompileInputs.cache
+C:\proyectos\DevSu\DevSu\DevSu.Infrastructure\bin\Debug\net6.0\DevSu.Infrastructure.deps.json
+C:\proyectos\DevSu\DevSu\DevSu.Infrastructure\bin\Debug\net6.0\DevSu.Infrastructure.runtimeconfig.json
+C:\proyectos\DevSu\DevSu\DevSu.Infrastructure\bin\Debug\net6.0\DevSu.Infrastructure.dll
+C:\proyectos\DevSu\DevSu\DevSu.Infrastructure\bin\Debug\net6.0\DevSu.Infrastructure.pdb
+C:\proyectos\DevSu\DevSu\DevSu.Infrastructure\bin\Debug\net6.0\DevSu.Core.dll
+C:\proyectos\DevSu\DevSu\DevSu.Infrastructure\bin\Debug\net6.0\DevSu.Core.pdb
+C:\proyectos\DevSu\DevSu\DevSu.Infrastructure\obj\Debug\net6.0\DevSu.Infrastructure.csproj.CopyComplete
+C:\proyectos\DevSu\DevSu\DevSu.Infrastructure\obj\Debug\net6.0\DevSu.Infrastructure.dll
+C:\proyectos\DevSu\DevSu\DevSu.Infrastructure\obj\Debug\net6.0\refint\DevSu.Infrastructure.dll
+C:\proyectos\DevSu\DevSu\DevSu.Infrastructure\obj\Debug\net6.0\DevSu.Infrastructure.pdb
+C:\proyectos\DevSu\DevSu\DevSu.Infrastructure\obj\Debug\net6.0\DevSu.Infrastructure.genruntimeconfig.cache
+C:\proyectos\DevSu\DevSu\DevSu.Infrastructure\obj\Debug\net6.0\ref\DevSu.Infrastructure.dll
